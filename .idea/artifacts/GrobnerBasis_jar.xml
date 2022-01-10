@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrobnerBasis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrobnerBasis_jar</output-path>
+    <root id="archive" name="GrobnerBasis.jar">
+      <element id="module-output" name="GrobnerBasis" />
+    </root>
+  </artifact>
+</component>
